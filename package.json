@@ -9,7 +9,9 @@
   "name": "express-biztime",
   "version": "1.0.0",
   "main": "app.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "supertest": "^6.3.3"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
